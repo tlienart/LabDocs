@@ -1,11 +1,11 @@
-@def title = "VKC Lab Documentation"
+@def title = "Wet Lab"
 @def hasmath = true
 @def hascode = true
 <!-- Note: by default hasmath == true and hascode == false. You can change this in
 the config file by setting hasmath = false for instance and just setting it to true
 where appropriate -->
 
-# How to use Franklin
+# Wet lab (bench) protocols
 
 \tableofcontents <!-- you can use \toc as well -->
 

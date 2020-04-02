@@ -3,8 +3,8 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 ----------------------------------------------------- -->
-@def website_title = "Franklin Template"
-@def website_descr = "Example website using Franklin"
+@def website_title = "VKC Lab Docs"
+@def website_descr = "Protocols and Documentation for the Klepac-Ceraj Lab at Wellesley"
 @def website_url   = "https://klepac-ceraj-lab.github.io/LabDocs/"
 
 @def author = "VKC Lab Staff"
