@@ -5,9 +5,9 @@ The website_* must be defined for the RSS to work
 ----------------------------------------------------- -->
 @def website_title = "Franklin Template"
 @def website_descr = "Example website using Franklin"
-@def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+@def website_url   = "https://klepac-ceraj-lab.github.io/LabDocs/"
 
-@def author = "Septimia Zenobia"
+@def author = "VKC Lab Staff"
 
 <!-- ---------------------------------------------------
 Add here global latex commands to use throughout your
