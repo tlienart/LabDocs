@@ -9,6 +9,8 @@ The website_* must be defined for the RSS to work
 
 @def author = "VKC Lab Staff"
 
+@def prepath = "LabDocs"
+
 <!-- ---------------------------------------------------
 Add here global latex commands to use throughout your
 pages. It can be math commands but does not need to be.
